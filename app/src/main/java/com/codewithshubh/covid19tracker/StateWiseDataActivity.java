@@ -85,6 +85,7 @@ public class StateWiseDataActivity extends AppCompatActivity {
         });
     }
 
+    // fungsi filter untuk ascending A-Z
     private void Filter(String text) {
         ArrayList<StateWiseModel> filteredList = new ArrayList<>();
         for (StateWiseModel item : stateWiseModelArrayList) {
