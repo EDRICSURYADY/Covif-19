@@ -164,7 +164,8 @@
                             android:gravity="center"
                             android:text="Confirmed"
                             android:textColor="@color/yellow"
-                            android:textSize="16sp"/>
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_main_confirmed_textview"
@@ -215,7 +216,8 @@
                             android:gravity="center"
                             android:text="Active"
                             android:textColor="@color/blue"
-                            android:textSize="16sp"/>
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_main_active_textview"
@@ -267,7 +269,8 @@
                             android:gravity="center"
                             android:text="Recovered"
                             android:textColor="@color/green"
-                            android:textSize="16sp"/>
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_main_recovered_textview"
@@ -318,7 +321,8 @@
                             android:gravity="center"
                             android:text="Deaths"
                             android:textColor="@color/red"
-                            android:textSize="16sp"/>
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_main_death_textview"
@@ -370,7 +374,8 @@
                             android:gravity="center"
                             android:text="Samples Tested"
                             android:textColor="@color/pink"
-                            android:textSize="16sp"/>
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_main_samples_textview"
@@ -421,7 +426,8 @@
                             android:gravity="center"
                             android:text="Last Updated"
                             android:textColor="@color/orange"
-                            android:textSize="16sp"/>
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_main_time_textview"
@@ -476,7 +482,8 @@
                             android:gravity="center"
                             android:text="State Data"
                             android:textColor="#ff1744"
-                            android:textSize="16sp"/>
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                     </LinearLayout>
 
@@ -512,7 +519,8 @@
                             android:gravity="center"
                             android:text="World Data"
                             android:textColor="#69f0ae"
-                            android:textSize="16sp"/>
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                     </LinearLayout>
 

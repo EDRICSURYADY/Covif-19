@@ -161,7 +161,8 @@
                             android:gravity="center"
                             android:text="Confirmed"
                             android:textColor="@color/yellow"
-                            android:textSize="16sp" />
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_each_country_data_confirmed_textView"
@@ -210,7 +211,8 @@
                             android:text="Active"
                             android:layout_marginTop="35dp"
                             android:textColor="@color/blue"
-                            android:textSize="16sp" />
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_each_country_data_active_textView"
@@ -262,7 +264,8 @@
                             android:text="Recovered"
                             android:layout_marginTop="35dp"
                             android:textColor="@color/green"
-                            android:textSize="16sp" />
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_each_country_data_recovered_textView"
@@ -313,7 +316,8 @@
                             android:text="Deaths"
                             android:layout_marginTop="35dp"
                             android:textColor="@color/red"
-                            android:textSize="16sp" />
+                            android:textSize="16sp"
+                            android:fontFamily="@font/poppins_bold"/>
 
                         <TextView
                             android:id="@+id/activity_each_country_data_death_textView"
@@ -363,7 +367,8 @@
                         android:gravity="center"
                         android:textColor="@color/pink"
                         android:layout_marginTop="25dp"
-                        android:textSize="16sp" />
+                        android:textSize="16sp"
+                        android:fontFamily="@font/poppins_bold"/>
 
                     <TextView
                         android:id="@+id/activity_each_country_data_tests_textView"

@@ -27,6 +27,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class StateWiseDataActivity extends AppCompatActivity {
 
@@ -95,6 +96,7 @@ public class StateWiseDataActivity extends AppCompatActivity {
         }
         stateWiseAdapter.filterList(filteredList, text);
     }
+
 
     private void FetchStateWiseData() {
         //Show progress dialog
